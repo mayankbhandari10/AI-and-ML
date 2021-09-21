@@ -1,2 +1,1 @@
-# Python_AI-and-ML
-This is for AI and ML learning
+# This Repo is for Python Crash Course.
