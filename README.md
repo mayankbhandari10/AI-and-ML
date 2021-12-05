@@ -1,2 +1,2 @@
-# This Repo is for Python Crash Course.
-Python Practices 
+# This Repo is for Python Basics and Python for DE by IBM .
+
